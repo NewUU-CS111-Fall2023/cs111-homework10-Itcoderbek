@@ -48,8 +48,7 @@ void unaryComparison(std::string& tape) {
                 break;
 
             // Add more states for the rest of the comparison process
-            // ...
-
+          
             default:
                 currentState = QReject;
                 break;

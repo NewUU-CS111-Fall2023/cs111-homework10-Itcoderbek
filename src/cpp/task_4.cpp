@@ -57,8 +57,7 @@ void unaryMultiplication(std::string& tape) {
                 }
                 break;
 
-            // Add more states for the rest of the multiplication process
-            // ...
+            
 
             default:
                 currentState = QReject;
